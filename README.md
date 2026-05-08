@@ -1,0 +1,2 @@
+# grocery-store
+The glossary is a reference section that defines all key technical and domain‑specific terms used in the store management system. It includes explanations of words like Product, Inventory, Stock, Supplier, Purchase Order, Sales Order, Customer, Cart, Checkout, Invoice, Payment, Return, Discount, Tax, Barcode, SKU, Reorder Level, Warehouse, and Admin. The glossary helps readers, developers, and end‑users understand the terminology consistently, reduces ambiguity, and serves as a quick reference throughout the project report and system documentation.
